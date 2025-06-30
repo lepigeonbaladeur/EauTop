@@ -6,7 +6,7 @@ La confiance de nos utilisateurs est notre priorité. Cette politique de confide
 ### Aucune collecte de données personnelles
 Nous tenons à être parfaitement clairs : **l'extension "EauTop - Rappel Hydratation" ne collecte, ne stocke, ne transmet et ne vend absolument aucune donnée personnelle ou sensible**.
 
-Toutes les données que vous configurez (objectif d'hydratation, fréquence, heures actives, historique) sont sauvegardées.
+Toutes les données que vous configurez (objectif d'hydratation, fréquence, heures actives, historique) sont sauvegardées uniquement sur votre propre ordinateur, dans le stockage local de votre navigateur. Ces informations ne nous sont jamais accessibles et ne quittent jamais votre appareil.
 
 ### Justification des permissions
 
